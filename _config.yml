@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yun-Yang Liu | UESTC"
-description              : "Ph.D. student in UESTC. Focusing on image processing, tensor learning, and fast algorithm."
-repository               : "yun-yangliu/yun-yangliu.github.io"
+title                    : "Honghui Xu | ZJUT"
+description              : "Ph.D. student in ZJUT. Focusing on image processing, tensor learning, and fast algorithm."
+repository               : "xuhonghui96/xuhonghui96.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yun-Yang Liu (刘运阳)"
+  name             : "Honghui Xu (徐宏辉)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Electronic Science and Technology of China (UESTC)"
   location         : "Chengdu, China"
