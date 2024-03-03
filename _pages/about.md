@@ -22,9 +22,9 @@ I am currently pursuing the Ph.D. degree (supervised by Prof. [Jianwei Zheng](ht
 
 My research interest includes image processing, tensor learning, and fast algorithm. 
 
-E-mail: <xhh@zjut.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
+📧 E-mail: <xhh@zjut.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
-# 🎙 News 
+# 🔔 News
 - *2024.02*: &nbsp;One paper is accepted by <b>TAI</b>.
 
 # 📄 Publications 
@@ -34,17 +34,17 @@ E-mail: <xhh@zjut.com> &emsp; [Google Scholar](https://scholar.google.com.hk/cit
 *IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. <br> [[Code](https://github.com/ZhengJianwei2/HFTNN)]
 
 
-# 🛩 Educations
+# 📖 Educations
 - *2018.09 - 2023.06*: &nbsp; Ph.D., Zhejiang University of Technology, Hangzhou
 - *2014.09 - 2018.06*: &nbsp; B.S., Zhejiang University of Technology, Hangzhou
 
-# 🎖 Honors and Awards
+# 🏆 Awards and Honors
 - Academic Scholarship, UESTC, *2019*,*2020*, *2021*, and *2022*
 - Special Postgraduate Scholarship of Science, UESTC, *2021*
 - Academic Rookie, UESTC, *2021*
 
 
-# 🗺 Academic Activities
+# 🌐 Academic Activities
 
 ## Reviewer
 - IEEE TGRS
