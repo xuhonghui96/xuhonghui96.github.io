@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the Ph.D. degree (supervised by Prof. [Xi-Le Zhao](https://zhaoxile.github.io/)) with the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
+I am currently pursuing the Ph.D. degree (supervised by Prof. [Jianwei Zheng](https://zhaoxile.github.io/)) with the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China.
 
-From Dec. 2023, I am working with Prof. [Gemine Vivone](https://sites.google.com/site/vivonegemine/), sponsored by the Academic Exchange Special Fund in UESTC for Overseas Training, at CNR-IMAA, Potenza, Italy.
 
 My research interest includes image processing, tensor learning, and fast algorithm. 
 
-E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/citations?user=lGITzEwAAAAJ&hl=zh-CN)
+E-mail: <xhh@zjut.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
 # 🎙 News 
 - *2023.06*: &nbsp;One paper is accepted by <b>IPI</b>.
@@ -32,17 +31,8 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 <b>Note</b>: \* indicates the corresponding author. 
 - [Fast tensor nuclear norm for structured low-rank visual inpainting](https://ieeexplore.ieee.org/abstract/document/9381277/)<br>
 <b>Honghui Xu</b>, Jianwei Zheng\*, Xiaomin Yao, Yuchao Feng, Shengyong Chen <br>
-*Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br> [[PDF](https://yun-yangliu.github.io/papers/IPI_2023.pdf)] [[Code](https://github.com/ZhengJianwei2/HFTNN)]
+*IEEE Transactions on Circuits and Systems for Video Technology* (<b>IPI</b>), 2022. <br> [[Code](https://github.com/ZhengJianwei2/HFTNN)]
 
- 
-- [Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://ieeexplore.ieee.org/document/9314228) <br>
-<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Yu-Bang Zheng, Tian-Hui Ma, Hongyan Zhang <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2021. <br>
-[[PDF](https://yun-yangliu.github.io/papers/TGRS_2021.pdf)] [[Slide](https://yun-yangliu.github.io/papers/TGRS_slide_2021.pdf)] [[Code](https://github.com/yun-yangliu/TGRS_FRCTR_PnP)] (<span style="color:red">ESI Highly Cited Paper</span>)
-
-- [Multi-Dimensional Data Recovery via Feature-Based Fully-Connected Tensor Network Decomposition](https://ieeexplore.ieee.org/document/10356843) <br>
-Zhi-Long Han, Ting-Zhu Huang\*, Xi-Le Zhao\*, Hao Zhang, <b>Yun-Yang Liu</b> <br>
-*IEEE Transactions on Big Data* (<b>TBD</b>), 2023.
 
 # 🛩 Educations
 - *2021.09 - Present*: &nbsp; Ph.D., School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu
