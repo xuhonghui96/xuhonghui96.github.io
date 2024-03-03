@@ -30,10 +30,9 @@ E-mail: <lyymath@126.com> &emsp; [Google Scholar](https://scholar.google.com/cit
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
-
-- [Fully-connected Tensor Network Decomposition for Robust Tensor Completion Problem](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)<br>
-<b>Yun-Yang Liu</b>, Xi-Le Zhao\*, Guang-Jing Song, Yu-Bang Zheng, Michael K. Ng, Ting-Zhu Huang <br>
-*Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br> [[PDF](https://yun-yangliu.github.io/papers/IPI_2023.pdf)] [[Code](https://github.com/yun-yangliu/IPI_RTC_FCTN)]
+- [Fast tensor nuclear norm for structured low-rank visual inpainting](https://ieeexplore.ieee.org/abstract/document/9381277/)<br>
+<b>Honghui Xu</b>, Jianwei Zheng\*, Xiaomin Yao, Yuchao Feng, Shengyong Chen <br>
+*Inverse Problems and Imaging* (<b>IPI</b>), 2023. <br> [[PDF](https://yun-yangliu.github.io/papers/IPI_2023.pdf)] [[Code](https://github.com/ZhengJianwei2/HFTNN)]
 
  
 - [Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://ieeexplore.ieee.org/document/9314228) <br>
