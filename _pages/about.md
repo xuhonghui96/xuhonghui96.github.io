@@ -29,12 +29,12 @@ My research interest includes image processing, tensor learning, and fast algori
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
-- [Fast tensor nuclear norm for structured low-rank visual inpainting](https://ieeexplore.ieee.org/abstract/document/9381277/)<br>
+- [Fast tensor nuclear norm for structured low-rank visual inpainting]<br>
 <b>Honghui Xu</b>, Jianwei Zheng\*, Xiaomin Yao, Yuchao Feng, Shengyong Chen <br>
-*IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. <br> [[Pdf](https://github.com/ZhengJianwei2/HFTNN)]
-- [Hyperspectral-multispectral image fusion via tensor ring and subspace decompositions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=952525/)<br>
+*IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9381277/)][[Code](https://github.com/ZhengJianwei2/HFTNN)]
+- [Hyperspectral-multispectral image fusion via tensor ring and subspace decompositions]<br>
 <b>Honghui Xu</b>, Mengjie Qin, Shengyong Chen, Yuhui Zheng, Jianwei Zheng\*  <br>
-*IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. <br> 
+*IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. <br> [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
 
 
 
