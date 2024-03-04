@@ -34,7 +34,7 @@ My research interest includes image processing, tensor learning, and fast algori
 *IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. <br> [[Pdf](https://github.com/ZhengJianwei2/HFTNN)]
 - [Hyperspectral-multispectral image fusion via tensor ring and subspace decompositions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=952525/)<br>
 <b>Honghui Xu</b>, Mengjie Qin, Shengyong Chen, Yuhui Zheng, Jianwei Zheng\*  <br>
-*IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>TCSVT</b>), 2021. <br> 
+*IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. <br> 
 
 
 
