@@ -29,6 +29,9 @@ My research interest includes image processing, tensor learning, and fast algori
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
+- Dual-Enhanced High-Order Self-Learning Tensor Singular Value Decomposition for Robust Principal Component Analysis<br>
+<b>Honghui Xu</b>, Chuangjie Fang, Renfang Wang, Shengyong Chen, Jianwei Zheng\* <br>
+*IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. <br> [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
 - Fast tensor nuclear norm for structured low-rank visual inpainting<br>
 <b>Honghui Xu</b>, Jianwei Zheng\*, Xiaomin Yao, Yuchao Feng, Shengyong Chen <br>
 *IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9381277/)][[Code](https://github.com/ZhengJianwei2/HFTNN)]
