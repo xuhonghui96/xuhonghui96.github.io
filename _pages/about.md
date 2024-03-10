@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the Ph.D. degree (supervised by Prof. [Jianwei Zheng](https://github.com/ZhengJianwei2/)) with the College of Computer Science and Technology, [Zhejiang University of Technology], Hangzhou, China.
+I am currently pursuing the Ph.D. degree (supervised by Prof. [Jianwei Zheng](https://github.com/ZhengJianwei2/)) and Prof. [JShengyong Chen](https://www.tjut.edu.cn/info/1014/4652.htm?ivk_sa=1024320u/)) with the College of Computer Science and Technology, [Zhejiang University of Technology], Hangzhou, China.
 
 
 My research interest includes image processing, tensor learning, and fast algorithm. 
