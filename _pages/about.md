@@ -46,12 +46,20 @@ My research interest includes image processing, tensor learning, and fast algori
 - *2014.09 - 2018.06*: &nbsp; B.S., Zhejiang University of Technology, Hangzhou
 
 # 🏆 Awards and Honors
-- Academic Scholarship, UESTC, *2019*,*2020*, *2021*, and *2022*
-- Special Postgraduate Scholarship of Science, UESTC, *2021*
-- Academic Rookie, UESTC, *2021*
+- National Scholarship for Ph. D. student (博士研究生国家奖学金), ZJUT, 2021
+- Excellent Graduate in Zhejiang (浙江省优秀毕业生), ZJUT, 2023
+- First-Class Academic Scholarship (学业一等奖学金), ZJUT, 2020-2022
+
 
 
 # 🌐 Academic Activities
 
 ## Reviewer
-- IEEE TGRS
+- IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+- Applied Mathematical Modeling
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- Journal of Big Data
+- ACMMM 2023
+- ICME 2023,2024
+- ICASSP 2023,2024
+- ICRA 2023
