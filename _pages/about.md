@@ -41,7 +41,7 @@ Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Yiting Jin, Jianwei Zheng <br>
 - A Lightweight Collective-attention Network for Change Detection<br>
 Yuchao Feng, Yanyan Shao, <b>Honghui Xu</b>, Jinshan Xu, Jianwei Zheng\* <br>
 *Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. <br> [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613773/)]
-Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
+- Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
 Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
 - Compact Intertemporal Coupling Network for Remote Sensing Change Detection<br>
@@ -71,7 +71,7 @@ Jianwei Zheng, Pengfei Li, Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Zhi Liu
 <b>Honghui Xu</b>, Jianwei Zheng\*, Xiaomin Yao, Yuchao Feng, Shengyong Chen <br>
 *IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9381277/)][[Code](https://github.com/ZhengJianwei2/HFTNN)]
 - ICIF-Net: Intra-scale Cross-interaction and Inter-scale Feature Fusion Network For Bi-temporal Remote Sensing Images Change Detection<br>
-<b>Yuchao Feng, Honghui Xu</b>, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
+Yuchao Feng, <b>Honghui Xu</b>, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
 - Hyperspectral and multispectral data fusion via joint local-nonlocal modeling and truncation operator<br>
 Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br>
@@ -81,7 +81,7 @@ Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br
 *IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. <br> [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
 
 ## 2021
-Tensor completion using patch-wise high order Hankelization and randomized tensor ring initialization<br>
+-Tensor completion using patch-wise high order Hankelization and randomized tensor ring initialization<br>
 Jianwei Zheng, Mengjie Qin, <b>Honghui Xu</b>, Yuchao Feng, Peijun Chen\*, Shengyong Chen <br>
 *Engineering Applications of Artificial Intelligence*, 2021. <br> [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
 
