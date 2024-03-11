@@ -36,7 +36,7 @@ My research interest includes image processing, tensor learning, and fast algori
 
 ## 2023
 - Tensor completion via hybrid shallow-and-deep priors<br>
-Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Yiting Jin, Jianwei Zheng <br>
+<b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Yiting Jin, Jianwei Zheng <br>
 *Applied Intelligence*, 2023. <br> [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4)]
 - A Lightweight Collective-attention Network for Change Detection<br>
 Yuchao Feng, Yanyan Shao, <b>Honghui Xu</b>, Jinshan Xu, Jianwei Zheng\* <br>
