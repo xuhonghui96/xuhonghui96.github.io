@@ -29,6 +29,7 @@ My research interest includes image processing, tensor learning, and fast algori
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
+-2024
 - Dual-Enhanced High-Order Self-Learning Tensor Singular Value Decomposition for Robust Principal Component Analysis<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Renfang Wang, Shengyong Chen, Jianwei Zheng\* <br>
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. <br> [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
