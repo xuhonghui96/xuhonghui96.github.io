@@ -81,7 +81,7 @@ Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br
 *IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. <br> [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
 
 ## 2021
--Tensor completion using patch-wise high order Hankelization and randomized tensor ring initialization<br>
+- Tensor completion using patch-wise high order Hankelization and randomized tensor ring initialization<br>
 Jianwei Zheng, Mengjie Qin, <b>Honghui Xu</b>, Yuchao Feng, Peijun Chen\*, Shengyong Chen <br>
 *Engineering Applications of Artificial Intelligence*, 2021. <br> [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
 
