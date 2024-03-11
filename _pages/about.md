@@ -48,7 +48,7 @@ Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
 Yuchao Feng, <b>Honghui Xu</b>, Jiawei Jiang, Jianwei Zheng\* <br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219785/)][[Code](https://github.com/ZhengJianwei2/CICNet)]
 - Building change detection using cross-temporal feature interaction network<br>
-Yuchao Feng, Jiawei Jiang, <bHonghui Xu</b>, Jianwei Zheng\* <br>
+Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10096120/)][[Code](https://github.com/ZhengJianwei2/CTFINet)]
 - CA-GAN: Object Placement via Coalescing Attention based Generative Adversarial Network<br>
 Yibin Wang, Yuchao Feng, Jie Wu, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
