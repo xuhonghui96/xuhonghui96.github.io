@@ -66,10 +66,10 @@ Jianwei Zheng, Yu Liu, Yuchao Feng, <b>Honghui Xu</b>, Meiyu Zhang\* <br>
 Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10095096/)]
 - GA-HQS: MRI reconstruction via a generically accelerated unfolding approach<br>
-Jiawei Jiang, Jiacheng Chen, Honghui Xu, <b>Yuchao Feng</b>, Jianwei Zheng\* <br>
+Jiawei Jiang, Jiacheng Chen, <b>Honghui Xu</b>, Yuchao Feng, Jianwei Zheng\* <br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219777/)]
 - Hyperspectral Image Superresolution via Subspace-Based Deep Prior Regularization<br>
-Jianwei Zheng, Pengfei Li, Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Zhi Liu\* <br>
+Jianwei Zheng, Pengfei Li, <b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Zhi Liu\* <br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10054116/)]
 
 ## 2022
