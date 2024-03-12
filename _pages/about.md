@@ -35,7 +35,7 @@ My research interest includes image processing, tensor learning, and fast algori
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. <br> [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
 
 ## 2023
-- Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting
+- Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting<br>
 <b>Honghui Xu</b>, Mengjie Qin, Yidong Yan, Meiyu Zhang, Jianwei Zheng
 *Signal Processing*, 2023. <br> [[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168422004273)]
 - Tensor completion via hybrid shallow-and-deep priors<br>
