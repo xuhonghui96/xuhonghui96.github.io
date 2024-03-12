@@ -35,6 +35,9 @@ My research interest includes image processing, tensor learning, and fast algori
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. <br> [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
 
 ## 2023
+- Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting
+<b>Honghui Xu</b>, Mengjie Qin, Yidong Yan, Meiyu Zhang, Jianwei Zheng
+*Signal Processing*, 2023. <br> [[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168422004273)]
 - Tensor completion via hybrid shallow-and-deep priors<br>
 <b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Yiting Jin, Jianwei Zheng <br>
 *Applied Intelligence*, 2023. <br> [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4)]
@@ -76,11 +79,11 @@ Yuchao Feng, <b>Honghui Xu</b>, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
 - Hyperspectral and multispectral data fusion via joint local-nonlocal modeling and truncation operator<br>
 Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9829822/)]
+
+## 2021
 - Hyperspectral-multispectral image fusion via tensor ring and subspace decompositions<br>
 <b>Honghui Xu</b>, Mengjie Qin, Shengyong Chen, Yuhui Zheng, Jianwei Zheng\*  <br>
 *IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. <br> [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
-
-## 2021
 - Tensor completion using patch-wise high order Hankelization and randomized tensor ring initialization<br>
 Jianwei Zheng, Mengjie Qin, <b>Honghui Xu</b>, Yuchao Feng, Peijun Chen\*, Shengyong Chen <br>
 *Engineering Applications of Artificial Intelligence*, 2021. <br> [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
