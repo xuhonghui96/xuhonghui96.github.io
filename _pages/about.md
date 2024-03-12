@@ -32,64 +32,64 @@ My research interest includes image processing, tensor learning, and fast algori
 ## 2024
 - Dual-Enhanced High-Order Self-Learning Tensor Singular Value Decomposition for Robust Principal Component Analysis<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Renfang Wang, Shengyong Chen, Jianwei Zheng\* <br>
-*IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. <br> [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
+*IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
 - ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan, Jianwei Zheng\*<br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)]
 
 ## 2023
 - Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting<br>
 <b>Honghui Xu</b>, Mengjie Qin, Yidong Yan, Meiyu Zhang, Jianwei Zheng
-*Signal Processing*, 2023. <br> [[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168422004273)]
+*Signal Processing*, 2023.[[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168422004273)]
 - Tensor completion via hybrid shallow-and-deep priors<br>
 <b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Yiting Jin, Jianwei Zheng <br>
-*Applied Intelligence*, 2023. <br> [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4)]
+*Applied Intelligence*, 2023. [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4)]
 - A Lightweight Collective-attention Network for Change Detection<br>
 Yuchao Feng, Yanyan Shao, <b>Honghui Xu</b>, Jinshan Xu, Jianwei Zheng\* <br>
-*Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. <br> [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613773/)]
+*Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613773/)]
 - Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
 Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
 - Compact Intertemporal Coupling Network for Remote Sensing Change Detection<br>
 Yuchao Feng, <b>Honghui Xu</b>, Jiawei Jiang, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219785/)][[Code](https://github.com/ZhengJianwei2/CICNet)]
+*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023.[[Pdf](https://ieeexplore.ieee.org/abstract/document/10219785/)][[Code](https://github.com/ZhengJianwei2/CICNet)]
 - Building change detection using cross-temporal feature interaction network<br>
 Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
-*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10096120/)][[Code](https://github.com/ZhengJianwei2/CTFINet)]
+*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10096120/)][[Code](https://github.com/ZhengJianwei2/CTFINet)]
 - CA-GAN: Object Placement via Coalescing Attention based Generative Adversarial Network<br>
 Yibin Wang, Yuchao Feng, Jie Wu, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo*, (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219885/)]
+*IEEE International Conference on Multimedia and Expo*, (<b>ICME</b>), 2023.[[Pdf](https://ieeexplore.ieee.org/abstract/document/10219885/)]
 - Contrastive Attention-guided Multi-level Feature Registration for Reference-based Super-resolution<br>
 Jianwei Zheng, Yu Liu, Yuchao Feng, <b>Honghui Xu</b>, Meiyu Zhang\* <br>
-*ACM Transactions on Multimedia Computing, Communications and Applications*, 2023. <br> [[Pdf](https://dl.acm.org/doi/abs/10.1145/3616495)]
+*ACM Transactions on Multimedia Computing, Communications and Applications*, 2023. [[Pdf](https://dl.acm.org/doi/abs/10.1145/3616495)]
 - Low-Dose CT Reconstruction Via Optimization-Inspired GAN<br>
 Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
-*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10095096/)]
+*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10095096/)]
 - GA-HQS: MRI reconstruction via a generically accelerated unfolding approach<br>
 Jiawei Jiang, Jiacheng Chen, Honghui Xu, <b>Yuchao Feng</b>, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219777/)]
+*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10219777/)]
 - Hyperspectral Image Superresolution via Subspace-Based Deep Prior Regularization<br>
 Jianwei Zheng, Pengfei Li, Honghui Xu, Jiawei Jiang, <b>Yuchao Feng</b>, Zhi Liu\* <br>
-*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/10054116/)]
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10054116/)]
 
 ## 2022
 - Fast tensor nuclear norm for structured low-rank visual inpainting<br>
 <b>Honghui Xu</b>, Jianwei Zheng\*, Xiaomin Yao, Yuchao Feng, Shengyong Chen <br>
-*IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9381277/)][[Code](https://github.com/ZhengJianwei2/HFTNN)]
+*IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9381277/)][[Code](https://github.com/ZhengJianwei2/HFTNN)]
 - ICIF-Net: Intra-scale Cross-interaction and Inter-scale Feature Fusion Network For Bi-temporal Remote Sensing Images Change Detection<br>
 Yuchao Feng, <b>Honghui Xu</b>, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9759285/)][[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
 - Hyperspectral and multispectral data fusion via joint local-nonlocal modeling and truncation operator<br>
 Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br>
-*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. <br> [[Pdf](https://ieeexplore.ieee.org/abstract/document/9829822/)]
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9829822/)]
 
 ## 2021
 - Hyperspectral-multispectral image fusion via tensor ring and subspace decompositions<br>
 <b>Honghui Xu</b>, Mengjie Qin, Shengyong Chen, Yuhui Zheng, Jianwei Zheng\*  <br>
-*IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. <br> [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
+*IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
 - Tensor completion using patch-wise high order Hankelization and randomized tensor ring initialization<br>
 Jianwei Zheng, Mengjie Qin, <b>Honghui Xu</b>, Yuchao Feng, Peijun Chen\*, Shengyong Chen <br>
-*Engineering Applications of Artificial Intelligence*, 2021. <br> [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
+*Engineering Applications of Artificial Intelligence*, 2021. [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
 
 # 📖 Educations
 - *2018.09 - 2023.06*: &nbsp; Ph.D., Zhejiang University of Technology, Hangzhou
