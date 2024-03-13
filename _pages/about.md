@@ -25,6 +25,7 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <xhh@zjut.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+- *2024.03*: &nbsp;One paper is accepted by <b>ICME</b>.
 - *2024.02*: &nbsp;One paper is accepted by <b>TAI</b>.
 
 # 📄 Publications 
