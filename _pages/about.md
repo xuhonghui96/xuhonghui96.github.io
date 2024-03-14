@@ -40,7 +40,7 @@ Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan
 
 ## 2023
 - Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting<br>
-<b>Honghui Xu</b>, Mengjie Qin, Yidong Yan, Meiyu Zhang, Jianwei Zheng
+<b>Honghui Xu</b>, Mengjie Qin, Yidong Yan, Meiyu Zhang, Jianwei Zheng <br>
 *Signal Processing*, 2023.[[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168422004273)]
 - Tensor completion via hybrid shallow-and-deep priors<br>
 <b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Yiting Jin, Jianwei Zheng <br>
