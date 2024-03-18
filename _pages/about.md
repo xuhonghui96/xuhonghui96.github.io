@@ -36,7 +36,7 @@ My research interest includes image processing, tensor learning, and fast algori
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
 - ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan, Jianwei Zheng\*<br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)][[Code](https://github.com/ZhengJianwei2/SFANet)]
 
 ## 2023
 - Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting<br>
