@@ -58,7 +58,7 @@ Yubin Gu, <b>Honghui Xu</b>, Yueqian Quan, Wanjun Chen, Jianwei Zheng\*<br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10041185/)][[Code](https://github.com/ZhengJianwei2/BAFS-Net)]
 - Image inpainting via Smooth Tucker decomposition and Low-rank Hankel constraint<br>
 Jing Cai, Jiawei Jiang, Yibing Wang, Jianwei Zheng, <b>Honghui Xu</b>\*<br>
-*International Journal of Computers and Applications, 2023. [[Pdf](https://www.tandfonline.com/doi/abs/10.1080/1206212X.2023.2219836/)]
+*International Journal of Computers and Applications*, 2023. [[Pdf](https://www.tandfonline.com/doi/abs/10.1080/1206212X.2023.2219836/)]
 - Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
 Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10034787/)][[Code](https://github.com/ZhengJianwei2/DMINet)]
