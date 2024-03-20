@@ -40,6 +40,9 @@ Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan
 - HMNet: Hierarchical Microscale-Aware Network for Infrared Small Target Detection<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Yidong Yan, Hang Zheng, Jianwei Zheng\*<br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10448344/)]
+- Multi-dimensional visual data completion via weighted hybrid graph-Laplacian<br>
+Jiawei Jiang, Yile Xu, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\*<br>
+*Signal Processing*, 2024.[[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168423003791)]
 ## 2023
 - Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting<br>
 <b>Honghui Xu</b>, Mengjie Qin, Yidong Yan, Meiyu Zhang, Jianwei Zheng <br>
