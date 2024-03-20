@@ -37,8 +37,8 @@ My research interest includes image processing, tensor learning, and fast algori
 - ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan, Jianwei Zheng\*<br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)][[Code](https://github.com/ZhengJianwei2/SFANet)]
-- HMNet: Hierarchical Microscale-Aware Network for Infrared Small Target Detection<be>
-Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Yidong Yan, Hang Zheng, Jianwei Zheng\*<be>
+- HMNet: Hierarchical Microscale-Aware Network for Infrared Small Target Detection<br>
+Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Yidong Yan, Hang Zheng, Jianwei Zheng\*<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>)[[Pdf](https://ieeexplore.ieee.org/document/10448344/)]
 ## 2023
 - Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting<br>
