@@ -54,7 +54,7 @@ Jiawei Jiang, Yile Xu, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\*<br>
 Yuchao Feng, Yanyan Shao, <b>Honghui Xu</b>, Jinshan Xu, Jianwei Zheng\* <br>
 *Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613773/)]
 - Orsi salient object detection via bidimensional attention and full-stage semantic guidance<br>
-Yubin Gu, <b>Honghui Xu</b>u, Yueqian Quan, Wanjun Chen, Jianwei Zheng\*<br>
+Yubin Gu, <b>Honghui Xu</b>, Yueqian Quan, Wanjun Chen, Jianwei Zheng\*<br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10041185/)][[Code](https://github.com/ZhengJianwei2/BAFS-Net)]
 - Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
 Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
