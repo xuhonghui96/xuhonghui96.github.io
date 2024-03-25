@@ -22,7 +22,7 @@ I am currently a Post-Doctoral Fellow (supervised by Prof. [Jianwei Zheng](https
 
 My research interest includes image processing, tensor learning, and fast algorithm. 
 
-📧 E-mail: <xhh@zjut.edu.cn>&<xhh9609@gmail.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
+📧 E-mail: <xhh@zjut.edu.cn> & <xhh9609@gmail.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
 - *2024.03*: &nbsp;One paper is accepted by <b>ICME</b>.
