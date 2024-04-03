@@ -120,6 +120,7 @@ Jianwei Zheng, Mengjie Qin, <b>Honghui Xu</b>, Yuchao Feng, Peijun Chen\*, Sheng
 # 🌐 Academic Activities
 
 ## Reviewer
+- IEEE Transactions on Image Processing (IEEE TIP)
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
 - Applied Mathematical Modeling
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
