@@ -101,7 +101,7 @@ Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br
 ## 2021
 - Hyperspectral-multispectral image fusion via tensor ring and subspace decompositions<br>
 <b>Honghui Xu</b>, Mengjie Qin, Shengyong Chen, Yuhui Zheng, Jianwei Zheng\*  <br>
-*IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING* (<b>JSTAR</b>), 2021. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (<b>JSTAR</b>), 2021. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9525254/)]
 - Tensor completion using patch-wise high order Hankelization and randomized tensor ring initialization<br>
 Jianwei Zheng, Mengjie Qin, <b>Honghui Xu</b>, Yuchao Feng, Peijun Chen\*, Shengyong Chen <br>
 *Engineering Applications of Artificial Intelligence*, 2021. [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
