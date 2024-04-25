@@ -52,7 +52,7 @@ Jiawei Jiang, Yile Xu, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\*<br>
 *Signal Processing*, 2023.[[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168422004273)]
 - Tensor completion via hybrid shallow-and-deep priors<br>
 <b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Yiting Jin, Jianwei Zheng <br>
-*Applied Intelligence*, 2023. [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4)]
+*Applied Intelligence*, 2023. [[Pdf](https://link.springer.com/article/10.1007/s10489-022-04331-4)][[Code](https://github.com/xuhonghui96/HPM)]
 - A Lightweight Collective-attention Network for Change Detection<br>
 Yuchao Feng, Yanyan Shao, <b>Honghui Xu</b>, Jinshan Xu, Jianwei Zheng\* <br>
 *Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023. [[Pdf](https://dl.acm.org/doi/abs/10.1145/3581783.3613773/)]
