@@ -31,6 +31,9 @@ My research interest includes image processing, tensor learning, and fast algori
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2024
+- Robust Principal Component Analysis via High-Order Self-Learning Transform Tensor Nuclear Norm<br>
+<b>Honghui Xu</b>, Yueqian Quan, Chuangjie Fang, Jianwei Zheng\* <br>
+*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10687617/)]
 - Dual-Enhanced High-Order Self-Learning Tensor Singular Value Decomposition for Robust Principal Component Analysis<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Renfang Wang, Shengyong Chen, Jianwei Zheng\* <br>
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
