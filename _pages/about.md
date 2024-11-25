@@ -32,6 +32,9 @@ My research interest includes image processing, tensor learning, and fast algori
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2024
+- Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution<br>
+<b>Honghui Xu</b>, Chuangjie Fang, Yilin Ge, Yubin Gu, Jianwei Zheng\* <br>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10687617/)]
 - Robust Principal Component Analysis via High-Order Self-Learning Transform Tensor Nuclear Norm<br>
 <b>Honghui Xu</b>, Yueqian Quan, Chuangjie Fang, Jianwei Zheng\* <br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10687617/)]
