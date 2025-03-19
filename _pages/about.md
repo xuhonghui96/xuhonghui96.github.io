@@ -33,12 +33,12 @@ My research interest includes image processing, tensor learning, and fast algori
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2025
-- C3S3: Complementary Competition and Contrastive Selection for Semi-Supervised Medical Image Segmentation.
-Jiaying He, Yitong Lin, Jiahe Chen, <b>Honghui Xu</b>\*, Jianwei Zheng\*.
+- C3S3: Complementary Competition and Contrastive Selection for Semi-Supervised Medical Image Segmentation.<br>
+Jiaying He, Yitong Lin, Jiahe Chen, <b>Honghui Xu</b>\*, Jianwei Zheng\*.<br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2025.
 
-- Enhancing Object Coherence in Layout-to-Image Synthesis.
-Wangyibin, Changhai Zhou, <b>Honghui Xu</b>\*.
+- Enhancing Object Coherence in Layout-to-Image Synthesis.<br>
+Wangyibin, Changhai Zhou, <b>Honghui Xu</b>\*.<br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2025.
 
 ## 2024
