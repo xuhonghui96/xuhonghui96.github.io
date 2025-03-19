@@ -41,6 +41,10 @@ Jiaying He, Yitong Lin, Jiahe Chen, <b>Honghui Xu</b>\*, Jianwei Zheng\*.<br>
 Wangyibin, Changhai Zhou, <b>Honghui Xu</b>\*.<br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2025.
 
+- DreamText: High Fidelity Scene Text Synthesis.<br>
+Yibin Wang, Weizhong Zhang, <b>Honghui Xu</b>, Cheng Jin.<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<b>CVPR</b>), 2025.
+
 ## 2024
 - Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Yilin Ge, Yubin Gu, Jianwei Zheng\* <br>
