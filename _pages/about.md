@@ -25,6 +25,7 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <xhh@zjut.edu.cn> or <xhh9609@gmail.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+- *2025.04*: &nbsp;One paper is accepted by <b>ICMR</b>.
 - *2025.03*: &nbsp;Two papers are accepted by <b>ICME</b>.
 - *2024.11*: &nbsp;One paper is accepted by <b>TGRS</b>.
 
@@ -33,6 +34,10 @@ My research interest includes image processing, tensor learning, and fast algori
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2025
+- Collaborative Cross-Complementary Unfolding Network for Pan-sharpening Remote Sensing Image.<br>
+<b>Honghui Xu</b>, Yan Li, Yutao jia, Chuangjie Fang, Wanjun Chen, Jianwei Zheng\*.<br>
+*ACM International Conference on Multimedia Retrieval* (<b>ICMR</b>), 2025.
+
 - C3S3: Complementary Competition and Contrastive Selection for Semi-Supervised Medical Image Segmentation.<br>
 Jiaying He, Yitong Lin, Jiahe Chen, <b>Honghui Xu</b>\*, Jianwei Zheng\*.<br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2025.
