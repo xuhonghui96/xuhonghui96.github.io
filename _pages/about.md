@@ -25,15 +25,20 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <xhh@zjut.edu.cn> or <xhh9609@gmail.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+- *2025.05*: &nbsp;One paper is accepted by <b>TGRS</b>.
 - *2025.04*: &nbsp;One paper is accepted by <b>ICMR</b>.
 - *2025.03*: &nbsp;Two papers are accepted by <b>ICME</b>.
-- *2024.11*: &nbsp;One paper is accepted by <b>TGRS</b>.
+
 
 
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2025
+- Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution.<br>
+<b>Honghui Xu</b>, Yueqian Quan, Mengjie Qin, Yibin Wang, Chuangjie Fang, Yan Li, Jianwei Zheng\*.<br>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025.
+
 - Collaborative Cross-Complementary Unfolding Network for Pan-sharpening Remote Sensing Image.<br>
 <b>Honghui Xu</b>, Yan Li, Yutao jia, Chuangjie Fang, Wanjun Chen, Jianwei Zheng\*.<br>
 *ACM International Conference on Multimedia Retrieval* (<b>ICMR</b>), 2025.
