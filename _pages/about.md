@@ -42,7 +42,7 @@ My research interest includes image processing, tensor learning, and fast algori
 
 - Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution.<br>
 <b>Honghui Xu</b>, Yueqian Quan, Mengjie Qin, Yibin Wang, Chuangjie Fang, Yan Li, Jianwei Zheng\*.<br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025.[[Code](https://github.com/xuhonghui96/GNLTN)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025. [[Code](https://github.com/xuhonghui96/GNLTN)]
 
 - Collaborative Cross-Complementary Unfolding Network for Pan-sharpening Remote Sensing Image.<br>
 <b>Honghui Xu</b>, Yan Li, Yutao jia, Chuangjie Fang, Wanjun Chen, Jianwei Zheng\*.<br>
@@ -63,7 +63,7 @@ Yibin Wang, Weizhong Zhang, <b>Honghui Xu</b>, Cheng Jin.<br>
 ## 2024
 - Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Yilin Ge, Yubin Gu, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024.[[Code](https://github.com/xuhonghui96/LFCTNN)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Code](https://github.com/xuhonghui96/LFCTNN)]
 - Robust Principal Component Analysis via High-Order Self-Learning Transform Tensor Nuclear Norm<br>
 <b>Honghui Xu</b>, Yueqian Quan, Chuangjie Fang, Jianwei Zheng\* <br>
 *IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2024.
@@ -72,7 +72,7 @@ Yibin Wang, Weizhong Zhang, <b>Honghui Xu</b>, Cheng Jin.<br>
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. 
 - ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan, Jianwei Zheng\*<br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024.[[Code](https://github.com/ZhengJianwei2/SFANet)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Code](https://github.com/ZhengJianwei2/SFANet)]
 - HMNet: Hierarchical Microscale-Aware Network for Infrared Small Target Detection<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Yidong Yan, Hang Zheng, Jianwei Zheng\*<br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2024.
@@ -81,14 +81,14 @@ Jie Wu, Yuchao Feng, <b>Honghui Xu</b>, Chuanmeng Zhu, Jianwei Zheng\* <br>
 *The Thirty-Eighth AAAI Conference on Artificial Intelligence* (<b>AAAI</b>), 2024. [[Code](https://github.com/ZhengJianwei2/SyFormer/)]
 - Multi-dimensional visual data completion via weighted hybrid graph-Laplacian<br>
 Jiawei Jiang, Yile Xu, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\*<br>
-*Signal Processing*, 2024.[[Code](https://github.com/ZhengJianwei2/WHGL)]
+*Signal Processing*, 2024. [[Code](https://github.com/ZhengJianwei2/WHGL)]
 ## 2023
 - Nonlocal B-spline representation of tensor decomposition for hyperspectral image inpainting<br>
 <b>Honghui Xu</b>, Mengjie Qin, Yidong Yan, Meiyu Zhang, Jianwei Zheng <br>
 *Signal Processing*, 2023.
 - Tensor completion via hybrid shallow-and-deep priors<br>
 <b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Yiting Jin, Jianwei Zheng <br>
-*Applied Intelligence*, 2023.[[Code](https://github.com/xuhonghui96/HPM)]
+*Applied Intelligence*, 2023. [[Code](https://github.com/xuhonghui96/HPM)]
 - A Lightweight Collective-attention Network for Change Detection<br>
 Yuchao Feng, Yanyan Shao, <b>Honghui Xu</b>, Jinshan Xu, Jianwei Zheng\* <br>
 *Proceedings of the 31st ACM International Conference on Multimedia* (<b>ACMMM</b>), 2023.
@@ -100,16 +100,16 @@ Jing Cai, Jiawei Jiang, Yibing Wang, Jianwei Zheng, <b>Honghui Xu</b>\*<br>
 *International Journal of Computers and Applications*, 2023.
 - Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network<br>
 Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023.[[Code](https://github.com/ZhengJianwei2/DMINet)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2023. [[Code](https://github.com/ZhengJianwei2/DMINet)]
 - Compact Intertemporal Coupling Network for Remote Sensing Change Detection<br>
 Yuchao Feng, <b>Honghui Xu</b>, Jiawei Jiang, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023.[[Code](https://github.com/ZhengJianwei2/CICNet)]
+*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2023. [[Code](https://github.com/ZhengJianwei2/CICNet)]
 - Building change detection using cross-temporal feature interaction network<br>
 Yuchao Feng, Jiawei Jiang, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2023. [[Code](https://github.com/ZhengJianwei2/CTFINet)]
 - CA-GAN: Object Placement via Coalescing Attention based Generative Adversarial Network<br>
 Yibin Wang, Yuchao Feng, Jie Wu, <b>Honghui Xu</b>, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo*, (<b>ICME</b>), 2023.[[Code](https://github.com/ZhengJianwei2/CA-GAN/)]
+*IEEE International Conference on Multimedia and Expo*, (<b>ICME</b>), 2023. [[Code](https://github.com/ZhengJianwei2/CA-GAN/)]
 - Contrastive Attention-guided Multi-level Feature Registration for Reference-based Super-resolution<br>
 Jianwei Zheng, Yu Liu, Yuchao Feng, <b>Honghui Xu</b>, Meiyu Zhang\* <br>
 *ACM Transactions on Multimedia Computing, Communications and Applications*, 2023.
@@ -126,10 +126,10 @@ Jianwei Zheng, Pengfei Li, <b>Honghui Xu</b>, Jiawei Jiang, Yuchao Feng, Zhi Liu
 ## 2022
 - Fast tensor nuclear norm for structured low-rank visual inpainting<br>
 <b>Honghui Xu</b>, Jianwei Zheng\*, Xiaomin Yao, Yuchao Feng, Shengyong Chen <br>
-*IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022.[[Code](https://github.com/ZhengJianwei2/HFTNN)]
+*IEEE Transactions on Circuits and Systems for Video Technology* (<b>TCSVT</b>), 2022. [[Code](https://github.com/ZhengJianwei2/HFTNN)]
 - ICIF-Net: Intra-scale Cross-interaction and Inter-scale Feature Fusion Network For Bi-temporal Remote Sensing Images Change Detection<br>
 Yuchao Feng, <b>Honghui Xu</b>, Jiawei Jiang, Hao Liu, Jianwei Zheng\* <br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022.[[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2022. [[Code](https://github.com/ZhengJianwei2/ICIF-Net)]
 - Hyperspectral and multispectral data fusion via joint local-nonlocal modeling and truncation operator<br>
 Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. [[Code](https://github.com/ZhengJianwei2/LNTM/)]
