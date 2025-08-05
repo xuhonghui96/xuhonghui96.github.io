@@ -42,7 +42,7 @@ My research interest includes image processing, tensor learning, and fast algori
 
 - Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution.<br>
 <b>Honghui Xu</b>, Yueqian Quan, Mengjie Qin, Yibin Wang, Chuangjie Fang, Yan Li, Jianwei Zheng\*.<br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025.
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025.[[Code](https://github.com/xuhonghui96/GNLTN)]
 
 - Collaborative Cross-Complementary Unfolding Network for Pan-sharpening Remote Sensing Image.<br>
 <b>Honghui Xu</b>, Yan Li, Yutao jia, Chuangjie Fang, Wanjun Chen, Jianwei Zheng\*.<br>
@@ -54,11 +54,11 @@ Jiaying He, Yitong Lin, Jiahe Chen, <b>Honghui Xu</b>\*, Jianwei Zheng\*.<br>
 
 - Enhancing Object Coherence in Layout-to-Image Synthesis.<br>
 Wangyibin, Changhai Zhou, <b>Honghui Xu</b>\*.<br>
-*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2025.
+*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2025. [[Code](https://github.com/CodeGoat24/EOCNet/)]
 
 - DreamText: High Fidelity Scene Text Synthesis.<br>
 Yibin Wang, Weizhong Zhang, <b>Honghui Xu</b>, Cheng Jin.<br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<b>CVPR</b>), 2025.
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<b>CVPR</b>), 2025. [[Code](https://codegoat24.github.io/DreamText/)]
 
 ## 2024
 - Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution<br>
