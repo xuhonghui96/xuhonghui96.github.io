@@ -72,7 +72,7 @@ Yibin Wang, Weizhong Zhang, <b>Honghui Xu</b>, Cheng Jin.<br>
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
 - ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan, Jianwei Zheng\*<br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)] <a href="https://github.com/ZhengJianwei2/SFANet" style="color:red;">[Code]</a>
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)][[Code](https://github.com/ZhengJianwei2/SFANet)]
 - HMNet: Hierarchical Microscale-Aware Network for Infrared Small Target Detection<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Yidong Yan, Hang Zheng, Jianwei Zheng\*<br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10448344/)]
