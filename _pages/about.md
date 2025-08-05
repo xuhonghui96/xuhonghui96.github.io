@@ -66,7 +66,7 @@ Yibin Wang, Weizhong Zhang, <b>Honghui Xu</b>, Cheng Jin.<br>
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10770239/)][[Code](https://github.com/xuhonghui96/LFCTNN)]
 - Robust Principal Component Analysis via High-Order Self-Learning Transform Tensor Nuclear Norm<br>
 <b>Honghui Xu</b>, Yueqian Quan, Chuangjie Fang, Jianwei Zheng\* <br>
-*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10687617/)]
+*IEEE International Conference on Multimedia and Expo* (<b>ICME</b>), 2024.
 - Dual-Enhanced High-Order Self-Learning Tensor Singular Value Decomposition for Robust Principal Component Analysis<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Renfang Wang, Shengyong Chen, Jianwei Zheng\* <br>
 *IEEE Transactions on Artificial Intelligence* (<b>TAI</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/document/10460263/)]
@@ -75,10 +75,10 @@ Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Renfang Wang, Qiu Guan
 *IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2024. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10416252)][[Code](https://github.com/ZhengJianwei2/SFANet)]
 - HMNet: Hierarchical Microscale-Aware Network for Infrared Small Target Detection<br>
 Yueqian Quan, <b>Honghui Xu</b> (<b>co-first author</b>), Yidong Yan, Hang Zheng, Jianwei Zheng\*<br>
-*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2024.[[Pdf](https://ieeexplore.ieee.org/document/10448344/)]
+*IEEE International Conference on Acoustics, Speech and Signal Processing* (<b>ICASSP</b>), 2024.
 - SyFormer: Structure-Guided Synergism Transformer for Large-Portion Image Inpainting<br>
 Jie Wu, Yuchao Feng, <b>Honghui Xu</b>, Chuanmeng Zhu, Jianwei Zheng\* <br>
-*The Thirty-Eighth AAAI Conference on Artificial Intelligence* (<b>AAAI</b>), 2024. [[Pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28417/)]
+*The Thirty-Eighth AAAI Conference on Artificial Intelligence* (<b>AAAI</b>), 2024. [[Code](https://github.com/ZhengJianwei2/SyFormer/)]
 - Multi-dimensional visual data completion via weighted hybrid graph-Laplacian<br>
 Jiawei Jiang, Yile Xu, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\*<br>
 *Signal Processing*, 2024.[[Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168423003791)]
