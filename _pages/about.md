@@ -25,6 +25,7 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <xhh@zjut.edu.cn> or <xhh9609@gmail.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+- *2025.11*: &nbsp;One paper is accepted by <b>AAAI</b>.
 - *2025.06*: &nbsp;One paper is accepted by <b>ICCV</b>.
 - *2025.05*: &nbsp;One paper is accepted by <b>TGRS</b>.
 - *2025.04*: &nbsp;One paper is accepted by <b>ICMR</b>.
@@ -35,7 +36,11 @@ My research interest includes image processing, tensor learning, and fast algori
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
-## 2025
+## 2026
+- TRT: Harnessing Tensor Ring Transformer for Hyperspectral Image Super-Resolution.<br>
+<b>Honghui Xu</b>, Junwei Zhu, Yubin Gu, Yueqian Quan, Chuangjie Fang, Hong Qiu, Jianwei Zheng\*.<br>
+*AAAI Conference on Artificial Intelligence* (<b>AAAI</b>), 2026.
+
 - Laboring on less labors: RPCA Paradigm for Pan-sharpening.<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Yibin Wang, Jie Wu, Jianwei Zheng\*.<br>
 *IEEE International Conference on Computer Visio* (<b>ICCV</b>), 2025.
