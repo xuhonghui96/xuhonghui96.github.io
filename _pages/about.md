@@ -41,6 +41,7 @@ My research interest includes image processing, tensor learning, and fast algori
 <b>Honghui Xu</b>, Junwei Zhu, Yubin Gu, Yueqian Quan, Chuangjie Fang, Hong Qiu, Jianwei Zheng\*.<br>
 *AAAI Conference on Artificial Intelligence* (<b>AAAI</b>), 2026.
 
+## 2025
 - Laboring on less labors: RPCA Paradigm for Pan-sharpening.<br>
 <b>Honghui Xu</b>, Chuangjie Fang, Yibin Wang, Jie Wu, Jianwei Zheng\*.<br>
 *IEEE International Conference on Computer Visio* (<b>ICCV</b>), 2025.
