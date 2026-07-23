@@ -25,11 +25,11 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <xhh@zjut.edu.cn> or <xhh9609@gmail.com> &emsp; [Google Scholar](https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+- *2026.06*: &nbsp;Two papers are accepted by <b>ACMMM</b>.
+- *2026.06*: &nbsp;Our paper <i>Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution</i> has been recognized as an <b>ESI Highly Cited Paper</b>..
 - *2025.11*: &nbsp;One paper is accepted by <b>AAAI</b>.
 - *2025.06*: &nbsp;One paper is accepted by <b>ICCV</b>.
-- *2025.05*: &nbsp;One paper is accepted by <b>TGRS</b>.
-- *2025.04*: &nbsp;One paper is accepted by <b>ICMR</b>.
-- *2025.03*: &nbsp;Two papers are accepted by <b>ICME</b>.
+
 
 
 
@@ -37,6 +37,14 @@ My research interest includes image processing, tensor learning, and fast algori
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2026
+- Understanding Before Fusion: Solving Spatial-Spectral Fusion via Dual-Semantic Language Guidance.<br>
+Junnan Xu, Junjie Zheng, Wei Li, Wenbin Lu, Junwei Zhu, <b>Honghui Xu</b>\*, Jianwei Zheng\*
+*ACM International Conference on Multimedia* (<b>ACMMM</b>), 2026.
+
+- Text-aware Physical Prior Network for Pansharpening.<br>
+Jia Yutao, Chuangjie Fang, <b>Honghui Xu</b>\*, Jianwei Zheng\*
+*ACM International Conference on Multimedia* (<b>ACMMM</b>), 2026.
+
 - TRT: Harnessing Tensor Ring Transformer for Hyperspectral Image Super-Resolution.<br>
 <b>Honghui Xu</b>, Junwei Zhu, Yubin Gu, Yueqian Quan, Chuangjie Fang, Hong Qiu, Jianwei Zheng\*.<br>
 *AAAI Conference on Artificial Intelligence* (<b>AAAI</b>), 2026.
