@@ -26,7 +26,7 @@ My research interest includes image processing, tensor learning, and fast algori
 
 # 🔔 News
 - *2026.06*: &nbsp;Two papers are accepted by <b>ACMMM</b>.
-- *2026.06*: &nbsp;Our paper <i>Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution</i> has been recognized as an <b>ESI Highly Cited Paper</b>..
+- *2026.06*: &nbsp;Our paper <i>Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution</i> has been recognized as an <b>ESI Highly Cited Paper</b>.
 - *2025.11*: &nbsp;One paper is accepted by <b>AAAI</b>.
 - *2025.06*: &nbsp;One paper is accepted by <b>ICCV</b>.
 
