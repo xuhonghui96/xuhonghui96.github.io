@@ -38,11 +38,11 @@ My research interest includes image processing, tensor learning, and fast algori
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2026
 - Understanding Before Fusion: Solving Spatial-Spectral Fusion via Dual-Semantic Language Guidance.<br>
-Junnan Xu, Junjie Zheng, Wei Li, Wenbin Lu, Junwei Zhu, <b>Honghui Xu</b>\*, Jianwei Zheng\*
+Junnan Xu, Junjie Zheng, Wei Li, Wenbin Lu, Junwei Zhu, <b>Honghui Xu</b>\*, Jianwei Zheng\*.<br>
 *ACM International Conference on Multimedia* (<b>ACMMM</b>), 2026.
 
 - Text-aware Physical Prior Network for Pansharpening.<br>
-Jia Yutao, Chuangjie Fang, <b>Honghui Xu</b>\*, Jianwei Zheng\*
+Jia Yutao, Chuangjie Fang, <b>Honghui Xu</b>\*, Jianwei Zheng\*.<br>
 *ACM International Conference on Multimedia* (<b>ACMMM</b>), 2026.
 
 - TRT: Harnessing Tensor Ring Transformer for Hyperspectral Image Super-Resolution.<br>
@@ -54,9 +54,11 @@ Jia Yutao, Chuangjie Fang, <b>Honghui Xu</b>\*, Jianwei Zheng\*
 <b>Honghui Xu</b>, Chuangjie Fang, Yibin Wang, Jie Wu, Jianwei Zheng\*.<br>
 *IEEE International Conference on Computer Visio* (<b>ICCV</b>), 2025.
 
-- Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution.<br>
+- Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution. 🔥<br>
 <b>Honghui Xu</b>, Yueqian Quan, Mengjie Qin, Yibin Wang, Chuangjie Fang, Yan Li, Jianwei Zheng\*.<br>
-*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025. [[Code](https://github.com/xuhonghui96/GNLTN)]
+*IEEE Transactions on Geoscience and Remote Sensing* (<b>TGRS</b>), 2025.
+<span style="color:#d9534f;"><b>ESI Highly Cited Paper</b></span>
+[[Code](https://github.com/xuhonghui96/GNLTN)]
 
 - Collaborative Cross-Complementary Unfolding Network for Pan-sharpening Remote Sensing Image.<br>
 <b>Honghui Xu</b>, Yan Li, Yutao jia, Chuangjie Fang, Wanjun Chen, Jianwei Zheng\*.<br>
